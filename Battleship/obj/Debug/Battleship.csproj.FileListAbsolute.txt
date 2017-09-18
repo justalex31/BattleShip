@@ -1,0 +1,50 @@
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\bin\Debug\Battleship.exe.config
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Battleship.csprojResolveAssemblyReference.cache
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\MainWindow.g.cs
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\PlayVSComp.g.cs
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\ShipPlacement.g.cs
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\App.g.cs
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Battleship_MarkupCompile.cache
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Battleship_MarkupCompile.lref
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\bin\Debug\Battleship.exe
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\bin\Debug\Battleship.pdb
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\MainWindow.baml
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\PlayVSComp.baml
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\ShipPlacement.baml
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Battleship.g.resources
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Battleship.Properties.Resources.resources
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Battleship.csproj.GenerateResource.Cache
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Battleship.exe
+c:\users\tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Battleship.pdb
+C:\Users\Tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Setup.g.cs
+C:\Users\Tiffany\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Setup.baml
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\bin\Debug\Battleship.exe.config
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\Battleship.exe
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\Battleship.pdb
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\bin\Debug\Battleship.exe
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\bin\Debug\Battleship.pdb
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\Battleship.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\PlayVSComp.g.cs
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\Setup.g.cs
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\ShipPlacement.g.cs
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\App.g.cs
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\Battleship_MarkupCompile.cache
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\Battleship_MarkupCompile.lref
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\MainWindow.baml
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\PlayVSComp.baml
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\Setup.baml
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\ShipPlacement.baml
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\Battleship.g.resources
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\Battleship.Properties.Resources.resources
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\Battleship.csproj.GenerateResource.Cache
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\bin\Debug\EntityFramework.dll
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\bin\Debug\EntityFramework.xml
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\bin\Debug\MySql.Data.dll
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\bin\Debug\battleship.mdf
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\bin\Debug\battleship_log.ldf
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\Battleship_Content.g.cs
