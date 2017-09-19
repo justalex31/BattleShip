@@ -90,9 +90,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Models\BattleShipContext.cs" />
-    <Compile Include="Models\Player.cs" />
-    <Compile Include="Models\Status.cs" />
     <Compile Include="PlayVSComp.xaml.cs">
       <DependentUpon>PlayVSComp.xaml</DependentUpon>
     </Compile>

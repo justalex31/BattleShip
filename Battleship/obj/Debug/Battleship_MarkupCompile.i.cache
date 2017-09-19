@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\obj\Debug\
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips\Battleship\obj\Debug\
 Battleship
 none
 false
 DEBUG;TRACE
-C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips-master\Battleship\App.xaml
+C:\Users\Alex\Downloads\BattleShips-master (1)\BattleShips\Battleship\App.xaml
 4992324953
 2665467231
-15322356558
-21-826243474
+1254002315
+21216826367
 MainWindow.xaml;PlayVSComp.xaml;Setup.xaml;ShipPlacement.xaml;
 
 False

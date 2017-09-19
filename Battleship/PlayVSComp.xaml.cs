@@ -4,7 +4,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Media;
-using Battleship.Models;
+using System.Data.SqlClient;
 
 namespace Battleship
 {
@@ -26,6 +26,8 @@ namespace Battleship
         int pSubmarineCount = 3, cSubmarineCount = 3;
         int pCruiserCount = 3, cCruiserCount = 3;
         int pDestroyerCount = 2, cDestroyerCount = 2;
+
+        string conn = @"Data Source=(LocalDB)\MSSQLLocalDB;Initial Catalog=BattleShip2;Integrated Security=True;Connect Timeout=15;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
         public PlayVSComp(Grid[] playerGrid, string playerName)
         {
@@ -217,9 +219,14 @@ namespace Battleship
             if (cCarrierCount == -1 && cBattleshipCount == -1 && cSubmarineCount == -1 &&
                 cCruiserCount == -1 && cDestroyerCount == -1)
             {
-                /*using(BattleShipContext bsc = new BattleShipContext()) {
-                    bsc.players.Add(new Player { name = this.playerName, StatusID = 1, date = DateTime.Now });
-                }*/
+                string sqlExp = String.Format("INSERT INTO Player (Name, StatusId) VALUES ('{0}',{1})", this.playerName.ToUpper(), 1);
+                if (gameActivity == true)
+                    using (SqlConnection connection = new SqlConnection(conn))
+                    {
+                        connection.Open();
+                        SqlCommand command = new SqlCommand(sqlExp, connection);
+                        command.ExecuteNonQuery();
+                    }
                 gameActivity = false;
                 MessageBox.Show("You win!");
                 disableGrids();
@@ -257,9 +264,14 @@ namespace Battleship
             if (pCarrierCount == -1 && pBattleshipCount == -1 && pSubmarineCount == -1 &&
                 pCruiserCount == -1 && pDestroyerCount == -1)
             {
-                /*using(BattleShipContext bsc = new BattleShipContext()) {
-                    bsc.players.Add(new Player { name = this.playerName, StatusID = 0, date = DateTime.Now });
-                }*/
+                string sqlExp = String.Format("INSERT INTO Player (Name, StatusId) VALUES ('{0}',{1})", this.playerName.ToUpper(), 2);
+                if (gameActivity == true)
+                    using (SqlConnection connection = new SqlConnection(conn))
+                    {
+                        connection.Open();
+                        SqlCommand command = new SqlCommand(sqlExp, connection);
+                        command.ExecuteNonQuery();
+                    }
                 gameActivity = false;
                 MessageBox.Show("You lose!");
                 disableGrids();
@@ -293,9 +305,13 @@ namespace Battleship
 
         private void btnStartOver_Click(object sender, RoutedEventArgs e)
         {
+            string sqlExp = String.Format("INSERT INTO Player (Name, StatusId) VALUES ('{0}',{1})", this.playerName.ToUpper(), 3);
             if (gameActivity == true)
-                using(BattleShipContext bsc = new BattleShipContext()) {
-                    bsc.players.Add(new Player { name = this.playerName, StatusID = 2, date = DateTime.Now });
+                using(SqlConnection connection = new SqlConnection(conn))
+                {
+                    connection.Open();
+                    SqlCommand command = new SqlCommand(sqlExp, connection);
+                    command.ExecuteNonQuery();
                 }
             replay(this, e);
         }
